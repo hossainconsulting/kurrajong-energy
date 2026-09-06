@@ -58,6 +58,27 @@ reason, and the requirement it traces to.
 - [ ] Stock Salesforce sample data still present (13 Accounts). Purge before
       seeding — see `03-admin-sunrise/seed/00-purge-sample-data.apex`
 
+## For recruiters and agencies
+
+**What this repository evidences:** Service Cloud Consultant discipline for regulated case
+handling — entitlements and milestones with an external consequence, business hours and
+pause conditions decided explicitly, and ombudsman escalation as its own path with its own
+clock.
+
+**State as at 06/09/2026:** Scoped; org provisioned, Field Service and Agentforce
+entitlements confirmed. No sprint has been built yet, and this README will say so until
+one has.
+
+**Read these first:**
+
+1. [`deliverables/build-log.md`](deliverables/build-log.md) — the record so far, including the org audit
+2. [`CLAUDE.md`](CLAUDE.md) — the engagement rules and why this is kept apart from the Meridian engagement
+
+**How to verify:** every change is in the build log with its date and the requirement it
+traces to; corrections are appended, never edited over. The
+[skill-to-evidence map](https://portfolio.hossainconsulting.com/#evidence) on the portfolio shows where each certification is
+applied, and the [hiring page](https://portfolio.hossainconsulting.com/#hire) says what I am open to.
+
 ---
 
 Built by [Hemayet Hossain](https://github.com/hossainconsulting) · Sydney, Australia
