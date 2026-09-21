@@ -21,7 +21,7 @@ which is what makes the SLA design decisions real rather than academic.
 
 ## Why this is a separate engagement from Meridian
 
-`01-agentforce-meridian` is also Service Cloud and Agentforce, for a warranty
+[Agentforce Meridian Care](https://github.com/hossainconsulting/agentforce-meridian-care) is also Service Cloud and Agentforce, for a warranty
 service administrator. This track is deliberately kept apart: Meridian is about
 deflecting phone volume with an agent, Kurrajong is about **regulated case
 handling** — statutory response windows, ombudsman escalation, multi-channel
@@ -56,7 +56,7 @@ reason, and the requirement it traces to.
       **Currency Locale** → English (Australia) AUD. Not settable through the API
       in a single-currency org
 - [ ] Stock Salesforce sample data still present (13 Accounts). Purge before
-      seeding — see `03-admin-sunrise/seed/00-purge-sample-data.apex`
+      seeding — see [SunRise sample-data purge script](https://github.com/hossainconsulting/salesforce-sunrise-solar/blob/main/seed/00-purge-sample-data.apex)
 
 ---
 
