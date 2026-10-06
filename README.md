@@ -6,6 +6,7 @@
 
 **Certification track:** Service Cloud Consultant (Service-Con-201)
 **Salesforce org:** Developer Edition (CLI alias `kurrajong`)
+**Lab:** working copy maintained on `salesforce-dev` (Ubuntu 24.04 LTS, VirtualBox VM on my own hardware). `salesforce-dev` is my role name for the Ubuntu lab.
 **Scope:** 10 sprints | discovery, case lifecycle, Omni-Channel routing, entitlements and regulated milestones, Knowledge, CTI and channels, Agentforce for Service, field service basics, reporting, adoption and handover
 
 ## The brief
